@@ -10,5 +10,4 @@ public class CicdTestApplication {
 		SpringApplication.run(CicdTestApplication.class, args);
 	}
 
-
 }
